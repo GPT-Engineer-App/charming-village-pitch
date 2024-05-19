@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <Container maxW="container.xl" p={4}>
       {/* Hero Section */}
-      <Box bgImage="url('https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxiZWF1dGlmdWwlMjBsYW5kc2NhcGUlMjBvZiUyMEJlaXNla2VyJTIwQWxiZXJ0YXxlbnwwfHx8fDE3MTYxMzIwNjd8MA&ixlib=rb-4.0.3&q=80&w=1080" bgSize="cover" bgPos="center" height="60vh" display="flex" alignItems="center" justifyContent="center" color="white">
+      <Box bgImage="url('https://new-image-url.com/your-new-image.jpg')" bgSize="cover" bgPos="center" height="60vh" display="flex" alignItems="center" justifyContent="center" color="white">
         <VStack spacing={4} textAlign="center">
           <Heading as="h1" size="2xl" fontFamily="Clarendon Text Pro">
             Discover Beiseker
